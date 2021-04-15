@@ -1,0 +1,25 @@
+body {
+    font-size: 24px;
+}
+
+a:link {
+    color: aqua;
+    font-weight: bold;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: blueviolet;
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: lighter;
+}
+
+body h1 + p .special {
+    color: yellow;
+    background-color: black;
+    padding: 5px;
+}

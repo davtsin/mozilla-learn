@@ -1,0 +1,5 @@
+Test your skills. Structuring a page of content.
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content
+
+Document and website structure
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
