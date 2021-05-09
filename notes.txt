@@ -1,22 +1,67 @@
 Learning pathway
 https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
 
-Modules:
+Current state:
+CSS building blocks
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks
+
+========================================================================================================================
 
 HTML
 - Introduction to HTML (15–20 hour read/exercises): DONE
 - Multimedia and embedding (15–20 hour read/exercises): NO
 - HTML tables (5–10 hour read/exercises): NO
 
+========================================================================================================================
+
 CSS
-- CSS first steps (10–15 hour read/exercises): IN PROGRESS
-- CSS building blocks (35–45 hour read/exercises): NO
+
+- CSS first steps (10–15 hour read/exercises): DONE
+    - What is CSS?: DONE
+    - Getting started with CSS: DONE
+    - How CSS is structured: DONE
+    - How CSS works: DONE
+    - Using your new knowledge: DONE
+
+--------------------------------------------------------------------------------
+
+- CSS building blocks (35–45 hour read/exercises): IN PROGRESS
+    - Cascade and inheritance
+    - CSS selectors
+        - Type, class, and ID selectors
+        - Attribute selectors
+        - Pseudo-classes and pseudo-elements
+        - Combinators
+    - The box model
+    - Backgrounds and borders
+    - Handling different text directions
+    - Overflowing content
+    - CSS values and units
+    - Sizing items in CSS
+    - Images, media, and form elements
+    - Styling tables
+    - Debugging CSS
+    - Organizing your CSS
+
+  Assessments
+    - Fundamental CSS comprehension
+    - Creating fancy letterheaded paper
+    - A cool looking box
+
+  See also
+    - Advanced styling effects
+
+--------------------------------------------------------------------------------
+
 - Styling text (15–20 hour read/exercises): NO
+
+--------------------------------------------------------------------------------
+
 - CSS layout (30–40 hour read/exercises): NO
+
+--------------------------------------------------------------------------------
+
 Additional resources
 - CSS layout cookbook: NO
 
-Current lesson:
-
-How CSS is structured
-https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured
+========================================================================================================================
